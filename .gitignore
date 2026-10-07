@@ -1,0 +1,12 @@
+.env
+.venv/
+.myenv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.streamlit/secrets.toml
+Data/
+working/
+current working 6.40/
+agent not working proper/
